@@ -1,0 +1,15 @@
+nav {
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto 50px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+
+    &:hover {
+        color: purple;
+    }
+}
